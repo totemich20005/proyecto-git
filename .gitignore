@@ -1,0 +1,25 @@
+# Archivos sensibles
+passwords.txt
+secrets.json
+
+# Variables de entorno
+.env
+.env.local
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Python
+_pycache_/
+*.pyc
+
+# Java
+*.class
