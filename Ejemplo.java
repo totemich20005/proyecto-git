@@ -3,12 +3,12 @@ public class Ejemplo {
 
         System.out.println("¡Hola desde Java!");
 
-        // Ejemplo de un bucle for
+        
         for (int i = 1; i <= 5; i++) {
             System.out.println("Contador: " + i);
         }
 
-        // Ejemplo de condicional
+        
         int numero = 10;
 
         if (numero > 5) {
@@ -16,5 +16,6 @@ public class Ejemplo {
         } else {
             System.out.println("El número es menor o igual a 5");
         }
+        System.out.println("Nueva Caracterisitca Agregada");
     }
 }
