@@ -1,4 +1,4 @@
-# Proyecto de Práctica Git y GitHub
+# Proyecto Profesional de Git y GitHub
 
 Este repositorio fue creado con el objetivo de practicar los conceptos fundamentales de **Git y GitHub**, utilizando Visual Studio Code y PowerShell para gestionar el control de versiones de un proyecto.
 
